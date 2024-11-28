@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1720723876448,
+      "tag": "0000_loose_agent_brand",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1720724528631,
+      "tag": "0001_clammy_lady_bullseye",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1721161078900,
+      "tag": "0002_opposite_magus",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1721233635060,
+      "tag": "0003_medical_flatman",
+      "breakpoints": true
+    }
+  ]
+}
